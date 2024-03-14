@@ -10,6 +10,8 @@ In this game you have to catch the balloons with the numbers that together will 
 * The player has 3 Lifes
 * Watch out for bombs that drop 1 life
 * An amount greater than the requested number will result in 1 life
+* USE ARROWES UP DOWN LEFT RIGHT TO PLAY
+
 
 You can try the game on [HERE](https://liron02319.itch.io/ex4-mathballoon)
 
